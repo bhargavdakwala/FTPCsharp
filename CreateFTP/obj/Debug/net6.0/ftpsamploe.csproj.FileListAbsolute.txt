@@ -1,0 +1,15 @@
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.csproj.AssemblyReference.cache
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.AssemblyInfoInputs.cache
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.AssemblyInfo.cs
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.csproj.CoreCompileInputs.cache
+C:\Sample\ftpsamploe\ftpsamploe\bin\Debug\net6.0\ftpsamploe.exe
+C:\Sample\ftpsamploe\ftpsamploe\bin\Debug\net6.0\ftpsamploe.deps.json
+C:\Sample\ftpsamploe\ftpsamploe\bin\Debug\net6.0\ftpsamploe.runtimeconfig.json
+C:\Sample\ftpsamploe\ftpsamploe\bin\Debug\net6.0\ftpsamploe.dll
+C:\Sample\ftpsamploe\ftpsamploe\bin\Debug\net6.0\ftpsamploe.pdb
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.dll
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\refint\ftpsamploe.dll
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.pdb
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ftpsamploe.genruntimeconfig.cache
+C:\Sample\ftpsamploe\ftpsamploe\obj\Debug\net6.0\ref\ftpsamploe.dll
